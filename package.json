@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.3",
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "copy-webpack-plugin": "^11.0.0",
+    "ethers": "^5.7.0",
+    "webpack-dev-server": "^4.10.1"
+  },
+  "dependencies": {
+    "@web3-react/injected-connector": "^6.0.7",
+    "chai": "^4.3.6",
+    "hardhat": "^2.10.2"
+  }
+}
